@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: manrope;
+    background-color: black;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+
+
+
+.site-header{
+    margin-bottom: 150px;
+    height: 100vh;
+    padding: 50px 0 100px;
+    text-align: center;
+    background-image: url("./images/cyber-truck.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.site-logo-link{
+    margin-bottom: 50px;
+    display: inline-block;
+}
+.header-title{
+    margin-bottom: 300px;
+}
+.header-order-link{
+    display: inline-block;
+    width: 221px;
+    text-align: center;
+    border: 2px solid white;
+    padding: 14px 0;
+    color: white;
+}
+.header-order-link:hover{
+    width: 350px;
+}
+
+
+
+
+.hero-list{
+    display: flex;
+}
+.hero-list-2{
+    flex-direction: row-reverse;
+    display: flex;
+}
+.hero-wrapper{
+    display: block;
+}
+.hero-title {
+    display: inline-block;
+    width: 205px;
+    margin-bottom: 20px;
+    width: 205px;
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    font-weight: 600;
+    line-height: -1px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.hero-text {
+    display: inline-block;
+    width: 528px;
+    margin-bottom: 202px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.hero-img{
+    margin-left: 100px;
+    margin-bottom: 200px;
+    display: flex;
+}
+.hero-subtitle{
+    display: inline-block;
+    padding-left: 70px;
+    margin-bottom: 24px;
+    width: 528px;
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    font-weight: 600;
+    line-height: -1px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.hero-ptext{
+    display: inline-block;
+    padding-left: 70px;
+    width: 528px;
+    margin-top: 24px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+
+
+
+
+.utility-title {
+    margin-bottom: 20px;
+    width: 290px;
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    font-weight: 600;
+    line-height: -1px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.utility-text {
+    margin-bottom: 62px;
+    width: 972px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.utility-img {
+    margin-bottom: 80px;
+}
+
+
+
+
+.storage-title {
+    margin-bottom: 20px;
+    width: 340px;
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    font-weight: 600;
+    line-height: -1px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.storage-text {
+    margin-bottom: 32px;
+    width: 900px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.storage-img {
+    margin-bottom: 200px;
+}
+
+
+
+
+
+
+.efficiency-section{
+    background-image: url("./images/kvadrat.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.efficiency-title {
+    margin-bottom: 20px;
+    width: 480px;
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    font-weight: 600;
+    line-height: -1px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.efficiency-text {
+    margin-bottom: 32px;
+    width: 960px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.efficiency-img {
+    margin-bottom: 200px;
+}
+
+
+
+
+.end-img {
+    margin-bottom: 100px;
+}
